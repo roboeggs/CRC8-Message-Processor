@@ -1,0 +1,9 @@
+# Ignore object files
+*.o
+
+# Ignore executable files
+crc8_processor.exe
+
+# Ignore other temporary or build files
+*.log
+*.tmp
